@@ -1,12 +1,8 @@
-import * as S from './styles'
-
 const Main = () => (
-  <S.Wrapper>
-    <S.Title>React Avançado</S.Title>
-    <S.Description>
-      TypeScript, React, NextJS and Styled Components
-    </S.Description>
-  </S.Wrapper>
+  <div>
+    <h1>TypeScript, React, NextJS and Styled Components</h1>
+    <a href="#">Link</a>
+  </div>
 )
 
 export default Main
